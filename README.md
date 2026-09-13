@@ -2,6 +2,8 @@
 
 Node.js + Express.js + Supabase backend assignment.
 
+Live link: https://itm-assignment-10-car-rental-api.onrender.com
+
 ## Local setup
 
 ```bash
@@ -49,4 +51,4 @@ Start command: `npm start`
 Environment variables:
 `SUPABASE_URL`
 `SUPABASE_ANON_KEY`
-`PORT=10000`
+`PORT=4000`
